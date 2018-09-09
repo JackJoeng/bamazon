@@ -8,13 +8,13 @@ This is an interactive shopping node app using MySQL and Node.JS. It allows the 
 ### How to Use?
 1. Install necessary packages: 
 
-* npm install mysql
-* npm install prompt
-* npm install inquirer
-* npm install colors
-* npm install cli-table
+* npm `install mysql`
+* npm `install prompt`
+* npm `install inquirer`
+* npm `install colors`
+* npm `install cli-table`
     
-2. Type node bamazonCustomer, or node bamazonManager, or node bamazonSupervisor
+2. Type `node bamazonCustomer`, or `node bamazonManager`, or `node bamazonSupervisor`
  
 ## Bamazon Customer Portal
  
