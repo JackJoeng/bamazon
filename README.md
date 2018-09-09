@@ -6,7 +6,14 @@
 This is an interactive shopping node app using MySQL and Node.JS. It allows the customer to place an order, the manager to view, track and update the product inventory, and the executive to create a new department and track the total sales by department.
 
 ### How to Use?
-1. Type npm install to install all the necessary packages.
+1. Install necessary packages: 
+
+* npm install mysql
+* npm install prompt
+* npm install inquirer
+* npm install colors
+* npm install cli-table
+    
 2. Type node bamazonCustomer, or node bamazonManager, or node bamazonSupervisor
  
 ## Bamazon Customer Portal
